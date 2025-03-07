@@ -1,4 +1,4 @@
 [submodule "StereoKit"]
 	path = StereoKit
-	url = https://github.com/Schmarni/StereoKit.git
+	url = https://github.com/Schmarni-Dev/StereoKit.git
 	branch = nova
