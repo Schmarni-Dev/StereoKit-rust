@@ -1,4 +1,4 @@
 [submodule "StereoKit"]
 	path = StereoKit
-	url = https://github.com/StereoKit/StereoKit.git
-	branch = develop
+	url = https://github.com/Schmarni-Dev/StereoKit.git
+	branch = egl_fix_testing
